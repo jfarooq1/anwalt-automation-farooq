@@ -10,7 +10,7 @@ The following repo contains test cases for CounterString Generator.
 
 2. Check if maven is installed on system. Enter "mvn -version" from terminal. You can also install maven with "brew install maven" on mac.
 
-3. If Maven is installed, Go to project root directory and type "mvn test" and enter. It will execute the test cases and show the status.
+3. If Maven is installed, Go to project root directory and type "mvn test" and enter. It will execute the test cases. Once execution is completed go to reports/index.html for the report.
 
 4. If Maven is not configured, then import the repository in eclipse/intellij.
 
