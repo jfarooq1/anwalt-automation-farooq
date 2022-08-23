@@ -1,0 +1,5 @@
+14:59:34.633 [main] INFO  com.anwaltde.automation.GenerateCounterStringTest - Waiting for web...
+14:59:34.657 [main] DEBUG com.anwaltde.automation.GenerateCounterStringTest - Removing Default Length Value
+14:59:34.888 [main] DEBUG com.anwaltde.automation.GenerateCounterStringTest - Entering Length Value
+14:59:35.010 [main] DEBUG com.anwaltde.automation.GenerateCounterStringTest - Clicking Generate Counterstring Button
+14:59:35.127 [main] DEBUG com.anwaltde.automation.GenerateCounterStringTest - Validating Message Response
