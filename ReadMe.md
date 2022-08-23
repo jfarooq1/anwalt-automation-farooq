@@ -23,13 +23,13 @@ The following repo contains test cases for CounterString Generator.
 
 ## Source Code Review
 
-Framework is designed as per the Page Object Model. It helps in modifying the framework in future.
+Framework is designed as per the Page Object Model. 
 
-7. Source code for the test cases is located in /src/test/java/. 
+8. Source code for the test cases is located in /src/test/java/. 
 
-8. Utilities are located in /src/main/java/.
+9. Utilities are located in /src/main/java/.
 
-9. 2 Test cases will be passed and 2 will be failed.
+10. 2 Test cases will be passed and 2 will be failed.
 
 
 
